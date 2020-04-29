@@ -23,8 +23,16 @@
 	padding: 0;
 	border: 0;
 }
+#sidebar {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
 #footer {
 	margin: 0;
 	padding: 0;
 	border: 0;
+}
+.float_right{
+	float:right;
 }
